@@ -1,5 +1,6 @@
 # Hackintosh - Opencore EFI for Asrock B660M-ITX/ac
 
+
 - **[5/26]**: Update to OpenCore 0.9.2. Tested on macOS Ventura 13.4.
 - **[4/11]**: First commit using OpenCore 0.9.1.
 
@@ -79,3 +80,8 @@ In BIOS, use `F6` to swtich to `Advanced Mode`.
 - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [OpenCore Alder Lake (12th-Gen Intel) Hackintosh Guidance](https://www.reddit.com/r/hackintosh/comments/sp1zgv/opencore_alder_lake_12thgen_intel_hackintosh/)
 - [Fix shutdown and restart](https://github.com/Koala166/The-TLDR-Guide-of-Fixing-Shutdown-Restart)
+
+## TODO
+Fix Darwin/win11 dual boot
+DevirtualiseMmio - False
+SyncRuntimePermissions - True
