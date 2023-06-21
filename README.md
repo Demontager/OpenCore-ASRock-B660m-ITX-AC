@@ -83,5 +83,5 @@ In BIOS, use `F6` to swtich to `Advanced Mode`.
 
 ## TODO
 Fix Darwin/win11 dual boot
-DevirtualiseMmio - False
-SyncRuntimePermissions - True
+- DevirtualiseMmio - False
+- SyncRuntimePermissions - True
